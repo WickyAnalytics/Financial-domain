@@ -38,6 +38,11 @@ Provides detailed insights into the loan portfolio, borrower profiles, and repay
 # Tableau Visualization 
 
 # Excel Visualization
+![image](https://github.com/user-attachments/assets/b76e54c5-f951-4d3a-908e-33873dab2317)
+
+![image](https://github.com/user-attachments/assets/62216e78-f7bb-4ed2-ab90-4e439bcdb89c)
+
+
 
 # SQL Validations
  
