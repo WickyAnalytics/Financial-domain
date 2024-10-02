@@ -45,4 +45,6 @@ Provides detailed insights into the loan portfolio, borrower profiles, and repay
 
 
 # SQL Validations
- 
+
+ [SQL Query_FINANCIAL DOMAIN Project.docx](https://github.com/user-attachments/files/17228498/SQL.Query_FINANCIAL.DOMAIN.Project.docx)
+
